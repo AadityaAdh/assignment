@@ -1,0 +1,54 @@
+.navbarcontainer{
+    background-color: transparent;
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.navbarleftitems{
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbarrightitems{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+
+}
+
+.navbarrightitems p:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.logo{
+    color: red;
+    font-size: 50px;
+    
+    
+
+}
+
+.navbarleftitems h2{
+    color: white;
+    font-weight: 700;
+}
+
+.navbarrightitems p{
+    color: white;
+}
+
+
+
+@media(max-width:900px){
+    .navbarleftitems,.navbarrightitems p{
+        font-size: 12px;
+    }
+}

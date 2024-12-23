@@ -1,0 +1,70 @@
+.sectiontwocontainer{
+    color: white;
+
+}
+
+.upsectiontwo{
+    display: flex;
+    height: 10vh;
+    width: 100%;
+    justify-content: space-between;
+}
+.rightupsectiontwo{
+    display: flex;
+    gap: 2rem;
+
+
+}
+
+.downsectiontwo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 50vh;
+}
+
+.leftdownsectiontwo{
+    width: 35%;
+    height: 75%;
+    overflow: hidden;
+    border-radius: 30px;
+    
+
+}
+.leftdownsectiontwo img{
+    height: 100%;
+    width: 100%;
+}
+
+
+.rightdownsectiontwo{
+    width: 40%;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.rightdownsectiontwo button{
+    background-color: red;
+    width: 40%;
+    color: white;
+    font-weight: 700;
+}
+
+.leftupsectiontwo p strong{
+    font-size: 40px;
+
+}
+
+.leftupsectiontwo p{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.rightdownsectiontwo p{
+    font-weight: 500;
+}

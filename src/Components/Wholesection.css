@@ -1,0 +1,130 @@
+.wholesectioncontainer{
+    height: 200vh;
+    width: 100vw;
+    font-family: Helvetica, Arial, sans-serif;
+    
+}
+
+.middlesectioncontainerone{
+    width: 100%;
+    height: 100vh;
+    background-image: url('wall.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.middlesectiononecontents{
+    width: 80%;
+    height: 100%;
+}
+
+
+.middlesectioncontainertwo{
+    width: 100%;
+    height: 60vh;
+    background-color: rgb(58, 59, 63);
+    
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.middlesectiontwocontents{
+    width: 80%;
+    height: 100%;
+}
+
+
+.middlesectioncontainerthree{
+    width: 100%;
+    height: 60vh;
+    background-color: rgb(48, 48, 48);
+    
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.middlesectionthreecontents{
+    width: 80%;
+    height: 100%;
+}
+
+.middlesectioncontainerfour{
+    width: 100%;
+    height: 80vh;
+    background-color: rgb(58, 59, 63);
+
+    
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.middlesectionfourcontents{
+    width: 80%;
+    height: 100%;
+}
+
+.middlesectioncontainerfive{
+    width: 100%;
+    height: 85vh;
+    background-color: rgb(48, 48, 48);
+    
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.middlesectionfivecontents{
+    width: 80%;
+    height: 100%;
+}
+
+.middlesectioncontainersix{
+    width: 100%;
+    height: 56vh;
+    background-color: rgb(58, 59, 63);
+    
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.middlesectionsixcontents{
+    width: 80%;
+    height: 100%;
+}
+
+.middlesectioncontainerseven{
+    width: 100%;
+    height: 39vh;
+    background-color: rgb(48, 48, 48);
+    
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.middlesectionsevencontents{
+    width: 80%;
+    height: 100%;
+}
+

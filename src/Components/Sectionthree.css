@@ -1,0 +1,48 @@
+.sectionthreecontainer{
+    color: white;
+}
+
+
+.upsectionthree{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dumbbelliconrotate{
+    font-size: 40px;
+    
+    
+}
+.downsectionthree{
+    display: flex;
+    gap: 1rem;
+    
+}
+
+.card1,.card2,.card3,.card4{
+    width: 24%;
+    background-color: rgb(26, 26, 26);
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    
+    
+}
+.cardinsidecontainer{
+    width: 90%;
+}
+
+
+.card1:hover,.card2:hover,.card3:hover,.card4:hover{
+    background-color: rgb(236, 112, 63);
+
+}
+
+.learnmoresectionthree{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}

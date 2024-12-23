@@ -1,0 +1,118 @@
+.outerherocontainer{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.herocontainer{
+    width: 50%;
+    height: 100%;
+    /*background-color: aqua;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.herocontainer h1{
+    width: 100%;
+    color: white;
+}
+
+.herocontainer p{
+    width: 100%;
+    font-size: 20px;
+    color: white;
+}
+
+.herodivone{
+    display: flex;
+    width: 100%;
+    gap: 0.1rem;
+    
+    align-items: center;
+}
+.herodivone button{
+    width: 30%;
+    background-color: red;
+    height: 5vh;
+    color: white;
+    font-weight: 600;
+}
+.watchvideo{
+    font-weight: 600;
+}
+
+.playbutton{
+    height: 80%;
+    width: 80px;
+    border-radius: 250px;
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    color: white;
+    background-color: rgb(46, 46, 45);
+}
+
+.herodivtwo{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    gap: 1rem ;
+}
+
+.herodivtwo hr{
+    height: 50px;
+
+}
+
+.herodivtwo p strong{
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+.righthero{
+    width: 50%;
+    height: 50%;
+    /*background-color: aquamarine;*/
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.graphcard{
+    background-color: white;
+    display: flex;
+    height: 12vh;
+    width: 18vw;
+    border-radius: 12px;
+    overflow: hidden;
+}
+.graphcardleft{
+    width: 60%;
+    height: 100%;
+}
+
+.graphcardleft p strong{
+    color: orange;
+}
+.graphcardleft p{
+    color: grey;
+}
+.graphcardright{
+    width: 40%;
+    height: 100%;
+}
+.graphcardright img{
+    height: 100%;
+    width: 100%;
+}
+
+.paraimage{
+    border-radius: 30px;
+}

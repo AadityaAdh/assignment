@@ -1,0 +1,141 @@
+.upsectionfive{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.monthlyannualcontainer{
+    display: flex;
+    border: 3px red solid;
+    border-radius: 30px;
+    overflow: hidden;
+    height: 5vh;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.monthly{
+    width: 8vw;
+    height: 100%;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.annual{
+    height: 100%;
+    width: 8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.downsectionfive{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card1sectionfive,.card2sectionfive,.card3sectionfive{
+    background-color: rgb(72, 71, 71);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 33%;
+    height: 55vh;
+    border-radius: 60px;
+    color: white;
+}
+
+.card1sectionfivecontent,.card2sectionfivecontent,.card3sectionfivecontent{
+    width: 90%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.card1sectionfive:hover,.card2sectionfive:hover,.card3sectionfive:hover{
+    transform: scale(1.2);
+    background-color: rgb(236, 112, 63);
+    
+}
+
+.makemefaint{
+    color: #d3d3d3;
+    opacity: 0.5;
+}
+
+
+.card1sectionfivecontent p strong{
+    font-size: 42px;
+    
+}
+
+.card2sectionfivecontent p strong{
+    font-size: 42px;
+    
+}
+
+.card3sectionfivecontent p strong{
+    font-size: 42px;
+    
+}
+
+
+.card1sectionfivecontent p {
+    font-weight: 400;
+    
+}
+
+.card2sectionfivecontent p{
+    font-weight: 400;    
+}
+
+.card3sectionfivecontent p {
+    font-weight: 400;    
+}
+
+
+.card1sectionfivecontent button {
+    width: 50%;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 100px;
+    color: white;
+    
+}
+
+.card2sectionfivecontent button{
+    width: 50%;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 100px;
+    color: white;
+
+
+
+}
+
+.card3sectionfivecontent button {
+    width: 50%;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 100px;
+    color: white;
+
+
+
+}
+
+
